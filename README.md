@@ -109,6 +109,20 @@ Some of possible future improvements may include:
 
 Developed as part of a web development learning project to practise HTML, CSS, JavaScript, DOM manipulation, form validation, event handling, and browser local storage.
 
+## Three TakeAways
+
+1. **HTML, CSS, and JavaScript work together as one to build interactive web applications**
+
+- Through this project I have learnt that HTML provides the structure of the application, including forms, buttons, and sections. On the otherhand, CSS provides the overall appearance, layout, colours, and responsiveness of the application and again for a web application to be fully functional, it needs JavaScript which adds functionality, and in this project it does perfom functional tasks such as creating, deleting, searching, and validating notes.
+
+2. **Web applications must handle user input carefully and manage data correctly**
+
+- I have Learnt how to collect user input, validate it, update the page dynamically, and store data. QuickNotes uses form validation to prevent empty notes and notes exceeding 200 characters. It also uses JavaScript arrays to manage notes and browser localStorage to preserve them after the page is refreshed.
+
+3. **Building, Testing, and Improving a Project Step by Step is crucial**
+
+- Throughout this project, I was constantly testing and debugging to ensure that I met the required features for the web app. As observed implementing features such as note categories, search, deletion, note counting, and responsive design required me to improve the web application step by step to achieve its better functionality.
+
 ## License
 
 This project was created for educational purposes and may be modified for learning and personal use.
